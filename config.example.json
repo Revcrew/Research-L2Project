@@ -1,0 +1,1 @@
+{"alert_classes":["CRITICAL_CONFIRMED","WARNING","MEDIA"],"chat_ids":["YOUR_TELEGRAM_CHAT_ID"],"check_interval":3600}
